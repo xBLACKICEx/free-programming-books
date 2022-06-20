@@ -721,11 +721,11 @@
 
 
 ### Rust
-* [Rust语言圣经](https://course.rs/about-book.html)
+* [Rust语言圣经](https://github.com/sunface/rust-course)
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
-* [Rusty Book(锈书)](https://rusty.rs/about.html)
+* [Rusty Book(锈书)](https://github.com/rustlang-cn/rusty-book)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
